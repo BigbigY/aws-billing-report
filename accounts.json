@@ -1,0 +1,14 @@
+[
+    {
+        "access_key_id": "",
+        "secret_access_key": "",
+        "region": "us-east-1",
+        "account_name": "ACCOUNT-1"
+    },
+    {
+        "access_key_id": "",
+        "secret_access_key": "",
+        "region": "us-east-1",
+        "account_name": "ACCOUNT-2"
+    }
+]
